@@ -14,3 +14,5 @@ These are the projects I completed during the course of my study at Practicum.
     *   What I expect to find is that the longer the customer is using the services, the less likely the model is to predict they will churn. This will likely leave 2 kinds of errors:
         *   New customers are likely to be predicted to churn even when they won't.
         *   Old customers will never be predicted to churn.
+*   Externship Music Valence;
+    *   The project is not being actively worked on, however there needs to be some time put into cleaning the code. Everything used in this project was learned on the go, so not all code will be up to best coding practices.
